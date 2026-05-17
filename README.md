@@ -1,39 +1,141 @@
-<h1 align="center">Hi 👋, I'm Md. Saifur Rahman</h1>
-<h3 align="center">A Professional full stack web developer</h3>
+<div align="center">
 
-<p> <img src="https://komarev.com/ghpvc/?username=mdsaifurrahmann&label=Profile%20views&color=0e75b6&style=flat" alt="mdsaifurrahmann" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=180&section=header&text=Md.%20Saifur%20Rahman&fontSize=40&fontColor=e6edf3&fontAlignY=42&animation=fadeIn&desc=Software%20Engineer%20%E2%80%94%20Dhaka%2C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descSize=16&descAlignY=64&descFontColor=8b949e" width="100%" alt="header" />
 
-- 👯 I’m looking to collaborate on **open source projects**
+<br/>
 
-- 💬 Ask me about **Vue, Laravel, Python**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdsaifurrahmann)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mdsaifurrahmann)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mdsaifurrahmann)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mdsaifurrahmann)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mdsaifurrahmann)
 
-- 📫 How to reach me **md.saifurrahmann029@gmail.com**
+<br/>
 
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Software+Engineer+with+10%2B+years+of+experience;Full-Stack+%7C+Cloud+%7C+DevOps+%7C+Automation;Building+systems+that+scale+%E2%80%94+quietly+and+reliably;From+zero+to+production.+No+shortcuts." alt="Typing SVG" />
 
-#
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mdsaifurrahmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mdsaifurrahmann" height="30" width="40" /></a>
-<a href="https://twitter.com/mdsaifurrahmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdsaifurrahmann" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mdsaifurrahmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdsaifurrahmann" height="30" width="40" /></a>
-<a href="https://fb.com/mdsaifurrahmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdsaifurrahmann" height="30" width="40" /></a>
-<a href="https://instagram.com/mdsaifurrahmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdsaifurrahmann" height="30" width="40" /></a>
-<a href="https://medium.com/@mdsaifurrahmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mdsaifurrahmann" height="30" width="40" /></a>
-</p>
+---
 
-#
+## 👋 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+I'm a **Software Engineer** based in Dhaka, Bangladesh with **10+ years** of experience building production-grade web applications, cloud infrastructure, and automation workflows. I work across the full stack — from Linux server provisioning and database architecture to pixel-precise UIs — and I own projects from the first commit through deployment and beyond.
 
-#
+```text
+🏢  Currently building at Codebumble Inc.
+🧰  Backend-heavy, but fluent across the whole stack
+☁️   AWS · GCP · Docker · Linux — comfortable in the cloud and the terminal
+🤖  Designing automation pipelines with n8n and AI agents
+📦  9+ client projects shipped across Bangladesh, Canada & the UK
+📬  Available for freelance work and long-term collaborations
+```
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsaifurrahmann&show_icons=true&locale=en&layout=compact&card_width=445&theme=rose_pine" alt="mdsaifurrahmann" /></p>
+---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mdsaifurrahmann&show_icons=true&locale=en&theme=rose_pine" alt="mdsaifurrahmann" /></p>
+## 🛠️ Tech Stack
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsaifurrahmann&&theme=ads-juicy-fresh" alt="mdsaifurrahmann" /></p>
+**Backend & APIs**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Platforms & Tools**
+
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+
+---
+
+## 🚀 Notable Projects
+
+| Project | Description | Stack | Live |
+|:--------|:------------|:------|:----:|
+| **Azyea** | Custom Shopify fashion store with fully tailored Liquid theme and storefront UX | Shopify · Liquid · CSS · JS | [↗](https://azyea.com) |
+| **Aro Furniture** | Premium furniture e-commerce store with bespoke Shopify theme development | Shopify · Liquid · CSS | [↗](https://arofurniture.com) |
+| **DTI** | Institutional web platform for a Bangladeshi educational organization | Laravel · PHP · MySQL | [↗](https://dti.edu.bd) |
+| **Scarborough Folk Fest** | Public event website for a Canadian folk music festival | Next.js · TailwindCSS · TypeScript | [↗](https://scarboroughfolkfest.com) |
+| **Inspired Productions** | Corporate web presence for a Toronto-based full-service video production company | Next.js · TypeScript | [↗](https://inspiredpro.ca) |
+| **+ 4 more & Counting** | Private & client work across SaaS, CMS, cloud & automation | Various | — |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mdsaifurrahmann&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+| | Topic | Why |
+|--|:------|:----|
+| 🐹 | **Go (Golang)** | High-performance backend services, CLI tooling, and concurrency patterns |
+| 🤖 | **AI Agent Architectures** | Building intelligent, multi-step workflows on top of LLMs with n8n |
+| ☁️ | **Advanced AWS** | Deepening expertise in serverless, ECS, and multi-region deployments |
+
+---
+
+## ⚡ Fun Facts
+
+- 🖥️ I've been daily-driving Linux for years — switching distros is basically a hobby at this point
+- 🔧 I've built automation pipelines that replaced hours of manual work with a single trigger
+- 📱 I was flashing Android firmware before I wrote my first line of production code — old habit
+- 🌐 I've shipped live projects for clients in Bangladesh, Canada, and the UK
+- 🧠 I believe clean code is a form of respect — write it for the next engineer, not just the machine
+
+---
+
+## 🤝 Open to Work
+
+I'm available for **freelance projects**, **contract work**, and **long-term collaborations** — especially if you're building something meaningful that deserves to be done right.
+
+<div align="center">
+
+<br/>
+
+[![Let's connect on LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdsaifurrahmann)&nbsp;
+[![Send me an email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.saifurrahmann029@gmail.com)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
+
+<sub>Built with purpose by <strong>Md. Saifur Rahman</strong> · Dhaka, Bangladesh 🇧🇩</sub>
+
+</div>
